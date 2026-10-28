@@ -1,0 +1,15 @@
+# macOS 관련 임시 파일
+.DS_Store
+
+# Mac/Windows 빌드 결과물 및 임시 폴더
+build/
+.vs/
+Debug/
+Release/
+x64/
+
+# 실행 파일 및 컴파일 찌꺼기 무시
+*.exe
+*.obj
+*.pdb
+*.out
